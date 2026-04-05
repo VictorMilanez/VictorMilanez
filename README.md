@@ -1,10 +1,8 @@
 ## Bem-vindo(a) ao perfil do Victor Milanez 😁
 
 <div>
-  <a href="https://github.com/VictorMilanez">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorMilanez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMilanez&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
+  <img height="180em" src="https://streak-stats.demolab.com?user=VictorMilanez&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorMilanez&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -18,9 +16,9 @@
 ### Meu contatos estão abaixo:
 
 <div> 
-  <a href="https://discord.gg/9BaZbc7gz5" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:victorsilva183@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-milanez-166b77328/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/9BaZbc7gz5" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+  <a href="mailto:victorsilva183@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/victor-milanez-166b77328/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white"></a>
 </div>
    
 
